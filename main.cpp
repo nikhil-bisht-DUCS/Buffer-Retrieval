@@ -5,7 +5,7 @@
 #include<thread>
 
 
-// Buffer Cache program by Nikhil Bisht, MCA-IV semester.
+// Buffer Cache program by Nikhil Bisht.
 // The process flow in the program is simulated through the use of Threads.
 
 
