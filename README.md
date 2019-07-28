@@ -11,6 +11,7 @@ MCA Batch 2017 – 2020
 
 
 
+
 Problem Statement:-
 
 Implementation and simulation of the getblk() algorithm to demonstrate how a process retrieves a buffer under various scenarios.
