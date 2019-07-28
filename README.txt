@@ -2,8 +2,7 @@ Buffer Cache Program,
 
 By: 
 Nikhil Bisht
-MCA-IV Semester
-Batch of 2017-2020
+MCA Batch of 2017-2020
 
 Department of Computer Science,
 University of Delhi
